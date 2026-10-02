@@ -1,0 +1,16 @@
+
+  .star-rating {
+    display: flex;
+    cursor: pointer;
+    font-size: 10px;
+    color: orangered;
+  }
+
+  .star1 {
+    display: inline-flex;
+    cursor: pointer;
+    font-size: 10px;
+    color: orangered;
+  }
+
+ 
